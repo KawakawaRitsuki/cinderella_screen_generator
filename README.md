@@ -1,0 +1,2 @@
+# cinderella_screen_generator
+デレ○テPV背景のスクリーン風の映像に変換
